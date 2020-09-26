@@ -387,7 +387,7 @@
 							</a>
 							{% endfor %}
                             <a href="{% url 'work_detail' work.pk %}">
-								<img src="/static/default.png" alt="work-title" />
+								<img src="{{ work.image.url }}" alt="work-title" />
 							</a>
 						</div>
 						<div class="details">
