@@ -21,7 +21,7 @@ C:\>git clone https://github.com/nasim-007/portfolio.git
 
 C:\>cd portfolio
 
-C:\portfolio>cd djnago
+C:\portfolio>cd django
 
 C:\portfolio\django>scripts\activate.bat
 
