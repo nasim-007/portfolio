@@ -17,7 +17,7 @@ In deploy method, select github. connect your repository and start deploy. that'
 ###### Download or clone the stable branch 'add-migrations'. Goto project root folder.
 
 ```
-C:\>git clone https://github.com/nasim-007/portfolio.git
+###### Clone the repository using 'git clone'command
 
 C:\>cd portfolio
 
