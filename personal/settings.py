@@ -103,15 +103,15 @@ WSGI_APPLICATION = 'personal.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': 'db.sqlite3',
-        'USER': '',
-        'PASSWORD': '',
+        'ENGINE': 'django.db.backends.postgresql_psycopg2',
+        'NAME': 'nimublogdb',
+        'USER': 'nimutest',
+        'PASSWORD': 'dbtest2020',
         'HOST': '',
         'PORT': '',
-        
     }
 }
+
 
 
 # Password validation
