@@ -38,9 +38,9 @@ SECRET_KEY = os.environ.get('DJANGO_SECRET_KEY', 'f^v0$q1l)3e*36&f$ctpu_lki)ou2v
 
 
 
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = ['https://nasimportfolio.herokuapp.com', 'localhost']
+ALLOWED_HOSTS = ['nasim-portfolio.herokuapp.com', 'localhost']
 
 
 # Application definition
