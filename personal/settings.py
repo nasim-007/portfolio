@@ -104,11 +104,11 @@ WSGI_APPLICATION = 'personal.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'nimublogdb',
-        'USER': 'nimutest',
+        'NAME': 'd8937qmbfcg82f',
+        'USER': 'mxdaavtkrriwpz',
         'PASSWORD': 'dbtest2020',
-        'HOST': '',
-        'PORT': '',
+        'HOST': 'ec2-34-233-226-84.compute-1.amazonaws.com',
+        'PORT': '5432',
     }
 }
 
