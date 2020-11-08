@@ -104,11 +104,11 @@ WSGI_APPLICATION = 'personal.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'd8937qmbfcg82f',
-        'USER': 'mxdaavtkrriwpz',
+        'NAME': '',
+        'USER': '',
         'PASSWORD': 'dbtest2020',
-        'HOST': 'ec2-34-233-226-84.compute-1.amazonaws.com',
-        'PORT': '5432',
+        'HOST': '',
+        'PORT': '',
     }
 }
 
